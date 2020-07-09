@@ -10581,8 +10581,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #a2ddeb;
-  border: 1px solid #a2ddeb;
+  color: #000000;
+  border: 1px solid #000000;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -10719,6 +10719,10 @@ body {
     max-width: 30rem;
     font-size: 1.25rem;
   }
+}
+
+.poster-section {
+  margin-top: 88px;
 }
 
 .about-section {
