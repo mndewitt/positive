@@ -4389,7 +4389,7 @@ input[type="button"].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 0 1rem;
 }
 .navbar .container,
 .navbar .container-fluid,
@@ -10590,7 +10590,6 @@ body {
 #mainNav .navbar-brand {
   color: #000000;
   font-weight: 700;
-  padding: 0.9rem 0;
 }
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(#fff, 80%);
@@ -10726,7 +10725,7 @@ body {
 }
 
 .about-section {
-  padding-top: 5rem;
+  padding-top: 2.5rem;
   background: linear-gradient(
     to bottom,
     #000000 0%,
@@ -10736,7 +10735,7 @@ body {
 }
 
 .projects-section .featured-text {
-  padding: 2rem;
+  padding-top: 1rem;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
@@ -10822,5 +10821,5 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 2rem 0;
 }
